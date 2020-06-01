@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BathOx</string>
+    <string name="click_to_choose_device">Klicken Sie, um ein Gerät auszuwählen</string>
+    <string name="no_device_selected">Kein Gerät ausgewählt</string>
+    <string name="traction_motor">Traktionsmotor</string>
+    <string name="water_pump">Wasserpumpe</string>
+    <string name="on">Ein</string>
+    <string name="off">Aus</string>
+    <string name="forward">Vorwärts</string>
+    <string name="backwards">Rückwärts</string>
+    <string name="speed">Tempo</string>
+    <string name="automatic_mode">Automatischer Modus</string>
+    <string name="tank_level">Tankfüllstand</string>
+    <string name="choose_device">Gerät auswählen</string>
+    <string name="ensure_device_connection">Um Ihr Gerät zu finden, stellen Sie sicher, dass es zuvor mit Ihrem Smartphone gekoppelt wurde</string>
+    <string name="press_back_again_to_exit">Zum Schließen erneut zurückdrücken</string>
+    <string name="no_bluetooth">Sie können Bluetooth auf diesem Gerät nicht verwenden</string>
+    <string name="connecting">Verbindung wird hergestellt…</string>
+    <string name="please_wait">Bitte warten Sie</string>
+    <string name="succ_connect">Gerät erfolgreich verbunden</string>
+    <string name="fail_connect">Verbindung konnte nicht hergestellt werden. Bitte versuchen Sie es erneut</string>
+    <string name="lost_conn">Verbindung unterbrochen</string>
+    <string name="brush">Bürste</string>
+    <string name="disconnect">Verbindung beenden</string>
+</resources>

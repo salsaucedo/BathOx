@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BathOx</string>
+    <string name="click_to_choose_device">Click to choose device</string>
+    <string name="no_device_selected">No device selected</string>
+    <string name="traction_motor">Traction Motor</string>
+    <string name="water_pump">Water Pump</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="forward">Forward</string>
+    <string name="backwards">Backwards</string>
+    <string name="speed">Speed</string>
+    <string name="automatic_mode">Automatic mode</string>
+    <string name="tank_level">Tank level</string>
+    <string name="choose_device">Choose device</string>
+    <string name="ensure_device_connection">To find your device, ensure that it was paired to your phone beforehand</string>
+    <string name="press_back_again_to_exit">Press back again to exit</string>
+    <string name="no_bluetooth">You can\'t use Bluetooth on this device</string>
+    <string name="connecting">Connecting…</string>
+    <string name="please_wait">Please wait.</string>
+    <string name="succ_connect">Device connected successfully</string>
+    <string name="fail_connect">Couldn\'t connect device. Try again</string>
+    <string name="lost_conn">Connection lost</string>
+    <string name="brush">Brush</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
